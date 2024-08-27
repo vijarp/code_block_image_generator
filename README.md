@@ -47,7 +47,7 @@ This Python project generates an image that simulates the appearance of a code b
 
 Here's an example of what the generated image might look like:
 
-![VSCode Simulated Code Block](../master/code_image.png)
+![VSCode Simulated Code Block](code_image.png)
 
 ## Customization
 
