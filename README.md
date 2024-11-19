@@ -61,7 +61,7 @@ Here's an example of what the generated image might look like:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ## Contributions
 
